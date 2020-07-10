@@ -1,11 +1,11 @@
-# Welcome to StackEdit!
+# Welcome to the Oahu repository!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+Hi there! This document was written by Avenze, and it guides you trough what this repository is used for, and how to use it! We use GitHub for issue management and project management!
 
 
-# Files
+# Oahu
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Oahu is a roleplaying game, based on the Roblox Engine, we're trying to innovate as many unique features as possible, and add them to Oahu, and if you find any issues with them, contact an support team member, and they'll add it to the GitHub issues page.
 
 ## Create files and folders
 
