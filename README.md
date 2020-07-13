@@ -1,9 +1,3 @@
-# Table of Contents
-
-Table of Contents eh? Documents what most stuff is here
-
-- [Punishment Documentation](https://github.com/Avenze/oahu-repository/blob/master/PUNISHMENTS.md)
-
 # Welcome to the Oahu repository!
 
 Hi there! This document was written by Avenze, and it guides you trough what this repository is used for, and how to use it! We use GitHub for issue management and project management!
@@ -15,3 +9,10 @@ Oahu is a roleplaying game, based on the Roblox Engine, we're trying to innovate
 # Social Media Platforms
 
 We use multiple social media platforms, but the main one is of course [Discord](https://discord.com/7FbEQZQ), we do not have any official Twitter, Instagram, and so on, accounts, but in the near future, we're planning on creating a Twitter account for the development of Oahu.
+
+# Table of Contents
+
+Table of Contents eh? Documents what most stuff is here
+
+- [Readme](https://github.com/Avenze/oahu-repository/blob/master/README.md)
+- [Punishment Documentation](https://github.com/Avenze/oahu-repository/blob/master/PUNISHMENTS.md)
