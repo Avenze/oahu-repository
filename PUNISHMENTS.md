@@ -25,3 +25,5 @@ Often, if you were kicked with the 2 characters being IA or UA, you were most li
 - IA01 : The RemoteFunction that the player attempted to fire detected invalid arguments that were passed from the player.
 
 # UA Documentation
+
+- UA01 : The player attempted to join Oahu when a server whitelist was enabled, this should most likely only occour during the testing phases of Oahu.
