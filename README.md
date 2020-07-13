@@ -1,3 +1,9 @@
+# Table of Contents
+
+Table of Contents eh? Documents what most stuff is here
+
+- [Punishment Documentation](https://github.com/Avenze/oahu-repository/blob/master/PUNISHMENTS.md)
+
 # Welcome to the Oahu repository!
 
 Hi there! This document was written by Avenze, and it guides you trough what this repository is used for, and how to use it! We use GitHub for issue management and project management!
