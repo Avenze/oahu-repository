@@ -23,6 +23,7 @@ Often, if you were kicked with the 2 characters being IA or UA, you were most li
 # IA Documentation
 
 - IA01 : The RemoteFunction that the player attempted to fire detected invalid arguments that were passed from the player.
+- IA02 : The player attempted to perform an invalid interaction trough the RemoteFunction that handles interactions passed from the player.
 
 # UA Documentation
 
