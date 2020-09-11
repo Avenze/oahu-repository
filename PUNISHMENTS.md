@@ -22,7 +22,7 @@ This document was written by Avenze, I'm going to document every possible reason
 # IA Documentation
 
 - IA01 : The RemoteFunction that the player attempted to fire detected invalid arguments that were passed from the player.
-- IA02 : The player attempted to perform an invalid interaction trough the RemoteFunction that handles interactions passed from the player.
+- IA02 : The player fired invalid arguments to the CrossCommunicationHandler, that was later passed on to the interactionmodule, which detected them being invalid.
 
 # UA Documentation
 
