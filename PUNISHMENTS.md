@@ -7,14 +7,13 @@ This document was written by Avenze, I'm going to document every possible reason
 - IA : Invalid Arguments
 - UA : Unauthorized Action
 
-Often, if you were kicked with the 2 characters being IA or UA, you were most likely kicked for exploiting
-
 # NP Documentation
 
 - NP01 : You were kicked/banned for attempting to edit values of a vehicle that you do not own, neither are driving at that time.
 - NP02 : You attempted to spawn a vehicle that you do not own, the vehiclemenu only shows purchased vehicles.
 - NP03 : You attempted to run the generatevehicles command without proper permissions being configured for you in the configurationdatatable.
 - NP04 : The player attempted to purchase a vehicle that they already own, this is already sort of prevented in the InterfaceController, exploiter lmao
+- NP05 : The player attempted to interact with an interactable that they do not have permission to interact with.
 
 # NE Documentation
 
