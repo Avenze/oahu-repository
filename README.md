@@ -16,3 +16,4 @@ Table of Contents eh? Documents what most stuff is here
 
 - [Readme](https://github.com/Avenze/oahu-repository/blob/master/README.md)
 - [Punishment Documentation](https://github.com/Avenze/oahu-repository/blob/master/PUNISHMENTS.md)
+- [Error Documentation](https://github.com/Avenze/oahu-repository/blob/master/ERRORS.md)
