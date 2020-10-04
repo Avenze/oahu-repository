@@ -18,3 +18,4 @@ This document was written by Avenze, I'm going to document most possible reasons
 # MM Documentation
 
 - MM-SM1 : A fatal error was detected, the main mission coroutine was not running, this should never fire unless a developer has performed manual intervention.
+- MM-SM2 : A fatal error was detected while starting the mission on the player, performing tasks such as interface management and such.
