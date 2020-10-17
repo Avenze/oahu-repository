@@ -14,6 +14,8 @@ This document was written by Avenze, I'm going to document most possible reasons
 
 - HM-PF1 : No returns were ever fired, so it fell back to returning this error, this means an unknown error.
 - HM-PF2 : The purchase function could have returned incorrect data, this should never fire incase of the player ever purchasing something while purchasing a vehicle deducting their money.
+- HM-PF3 : Same issue as HM-PF2, but in the purchaseApartment function, this should (technically) never fire, but I'll document it just in case :) L403
+- HM-PF4 : Something in the purchaseApartment function fucked up bad, L409
 
 # MM Documentation
 
