@@ -24,6 +24,7 @@ This document was written by Avenze, I'm going to document every possible reason
 - IA01 : The RemoteFunction that the player attempted to fire detected invalid arguments that were passed from the player.
 - IA02 : The player fired invalid arguments to the CrossCommunicationHandler, that was later passed on to the interactionmodule, which detected them being invalid.
 - IA03 : The arguments/parameters that were passed had been fiddled with, the event was manually fired by an exploiter most likely.
+- IA04 : Tampering was detected while validating if a player has sat down at a workplace
 
 # UA Documentation
 
